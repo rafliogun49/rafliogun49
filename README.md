@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 My name is Muhammad Rafli 
-I was Agroindustrial Technology Student with interest in UX Engineering, Front End Development using React JS, and Start up Business  
-You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/) or my twitter on [Twitter](https://twitter.com/ReactFli)  
+I was Agroindustrial Technology Student with interest in UX Engineering
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/) or [Twitter](https://twitter.com/ReactFli)  
 
 <p align="left">
 <a href="https://github.com/rafliogun49">
