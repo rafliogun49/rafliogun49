@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Muhammad Rafli 
-I was Agroindustrial Technology Student who passionate in programming and data
+I was Agroindustrial Technology Student from Universitas Padjadjaran who passionate in programming and data
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/) or [Twitter](https://twitter.com/ReactFli)  
 
