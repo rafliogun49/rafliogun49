@@ -3,7 +3,7 @@
 My name is Muhammad Rafli 
 I was Agroindustrial Technology Student from Universitas Padjadjaran who passionate in programming and data
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/) or [Twitter](https://twitter.com/ReactFli)  
+You can reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).   
 
 <p align="left">
 <a href="https://github.com/rafliogun49">
